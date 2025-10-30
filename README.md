@@ -7,6 +7,6 @@
 - Borne Wi-Fi
 
 # Installation du serveur
-- sudo apt update && sudo apt upgrade
-- sudo apt-get install mosquitto
+`sudo apt update && sudo apt upgrade`
+`sudo apt-get install mosquitto`
   
