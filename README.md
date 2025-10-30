@@ -13,8 +13,8 @@
 - Connecter le DHT22 à l'ESP32
 
 # Déroulement de l'expérience
-- Programmer l'ESP32 avec l'environnement Arduino sur l'ordinateur
-- Programmer l'afficheur LCD 1602 avec environnement Python
+- Programmer l'envoi des températures et humidités avec l'environnement Arduino sur l'ordinateur
+- Programmer la réception et l'affichage des températures et humidités avec IDE Python sur Raspberry Pi
 
 # Installation d'un serveur MQTT dans le terminal d'un Raspberry Pi sur Raspberry Pi
 `sudo apt update && sudo apt upgrade`
